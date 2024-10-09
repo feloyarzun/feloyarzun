@@ -1,6 +1,8 @@
 Hello there
 
-![Uploading image.png…]()
+<img src="https://pbs.twimg.com/media/EYeC_gRX0AA02YK.jpg" />
+
+Hola soy felipe, estudie ing informatica 
 
 
 <!--
