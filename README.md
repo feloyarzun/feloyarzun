@@ -1,8 +1,8 @@
-Hello there
 
-<img src="https://pbs.twimg.com/media/EYeC_gRX0AA02YK.jpg" />
 
-Hola soy felipe, estudie ing informatica 
+<img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=6c09b952ctjenjq75s53dgv8w881vluy87p1tbym4nt5bndz&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+
+Soy felipe, estudie ing informatica 
 
 
 <!--
