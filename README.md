@@ -1,5 +1,5 @@
 
-Soy felipe, estudie ing informatica 
+Soy felipe, estudie ing informatica, vivo en Chile, Santiago
 
 
 <!--
